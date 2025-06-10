@@ -1,1 +1,45 @@
-# ml-practice-portfolio
+# 🧠 ML Practice Portfolio
+
+Welcome to my **Machine Learning Practice Portfolio** — a curated collection of end-to-end projects across various regression and classification problems.
+
+Each dataset project includes:
+- 📓 A clean and well-documented Jupyter Notebook
+- 📃 A README with problem statement and evaluation metrics
+- 📊 Model training and testing results
+- 🔍 Key takeaways and insights
+
+---
+
+## 📂 Project List
+
+| Dataset Name           | Type         | Models Used                     | Notebook Link                     |
+|------------------------|--------------|----------------------------------|------------------------------------|
+| California Housing     | Regression   | Linear Regression, Random Forest| [🔗 View](./california-housing)    |
+
+---
+
+## 🧭 Purpose
+
+This portfolio is designed to:
+- Strengthen my hands-on understanding of real-world ML problems
+- Document model experimentation and evaluation strategies
+- Build a transparent and professional GitHub presence
+
+---
+
+## 🚧 Work in Progress
+
+Upcoming additions:
+- Insurance Charges
+- Heart Disease Classification
+- Titanic Survival Prediction
+- Student Exam Score Predictor
+
+Stay tuned! 🚀
+
+---
+
+## 📬 Feedback & Suggestions
+
+Feel free to raise issues, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/in/kaivalyagnik).
+
