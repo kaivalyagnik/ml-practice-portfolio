@@ -41,5 +41,5 @@ Stay tuned! 🚀
 
 ## 📬 Feedback & Suggestions
 
-Feel free to raise issues, suggest improvements, or connect with me on [LinkedIn](www.linkedin.com/in/kaival-yagnik-16185728b).
+Feel free to raise issues, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/in/kaival-yagnik-16185728b).
 
