@@ -14,7 +14,7 @@ Each dataset project includes:
 
 | Dataset Name           | Type         | Models Used                     | Notebook Link                     |
 |------------------------|--------------|----------------------------------|------------------------------------|
-| California Housing     | Regression   | Linear Regression, Random Forest| [🔗 View]([./california-housing](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb#scrollTo=ST0rPf-aC3mw))    |
+| California Housing     | Regression   | Linear Regression, Random Forest| [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb)    |
 
 ---
 
