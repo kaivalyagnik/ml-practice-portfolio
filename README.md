@@ -22,7 +22,7 @@ Each dataset project includes:
 
 | Model                          | RMSE      | R² Score | Notes                                      |
 |-------------------------------|-----------|----------|--------------------------------------------|
-| Linear Regression             | ~73000    | 0.62     | Simple baseline                            |
+| Linear Regression             | ~70000    | 0.62     | Simple baseline                            |
 | Random Forest (default)       | 48910     | 0.82     | Best performing so far                     |
 | Random Forest (tuned)         | 50330     | 0.80     | Slightly worse than default                |
 | XGBoost Regressor  (tuned)    | 48062 | 0.82 | Accurate and efficient gradient boosting   |
