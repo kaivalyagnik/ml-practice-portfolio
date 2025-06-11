@@ -14,9 +14,19 @@ Each dataset project includes:
 
 | Dataset Name           | Type         | Models Used                     | Notebook Link                     |
 |------------------------|--------------|----------------------------------|------------------------------------|
-| California Housing     | Regression   | Linear Regression, Random Forest| [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb)    |
+| California Housing     | Regression   | Linear Regression, Random Forest, XGBoost| [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb)    |
 
 ---
+
+## 📊 Model Evaluation Summary (California Housing)
+
+| Model                          | RMSE      | R² Score | Notes                                      |
+|-------------------------------|-----------|----------|--------------------------------------------|
+| Linear Regression             | ~73000    | 0.62     | Simple baseline                            |
+| Random Forest (default)       | 48910     | 0.82     | Best performing so far                     |
+| Random Forest (tuned)         | 50330     | 0.80     | Slightly worse than default                |
+| XGBoost Regressor  (tuned)    | 48062 | 0.82 | Accurate and efficient gradient boosting   |
+
 
 ## 🧭 Purpose
 
