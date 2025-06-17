@@ -40,6 +40,7 @@ Each dataset project includes:
 | Random Forest (tuned)         | 50330     | 0.80     | Slightly worse than default                |
 | XGBoost Regressor  (tuned)    | 48062 | 0.82 | Accurate and efficient gradient boosting   |
 
+
 📈 Insurance Charges
 
 | Model              | Encoding Type | RMSE      | R² Score | Notes                                       |
