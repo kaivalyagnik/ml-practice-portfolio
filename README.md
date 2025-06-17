@@ -27,7 +27,7 @@ Each dataset project includes:
 | Dataset Name           | Type         | Problem Description                                | Models Used                                | Notebook Link                                                                 |
 |------------------------|--------------|----------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------|
 | California Housing     | Regression   | Predict house prices in California based on census data | Linear Regression, Random Forest, XGBoost  | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb) |
-| Insurance Charges      | Regression   | Predict individual insurance charges using features like age, BMI, region, smoker status | Linear, Decision Tree, Random Forest, XGBoost       | [🔗 View]((https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/insurance_charges_regression.ipynb#scrollTo=CP9uPmFXHmwE)) |
+| Insurance Charges      | Regression   | Predict individual insurance charges using features like age, BMI, region, smoker status | Linear, Decision Tree, Random Forest, XGBoost       | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/insurance_charges_regression.ipynb#scrollTo=CP9uPmFXHmwE) |
 
 ---
 
