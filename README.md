@@ -3,7 +3,7 @@
 Welcome to my **Machine Learning Practice Portfolio** — a curated collection of end-to-end projects across various regression and classification problems.
 
 Each dataset project includes:
-- 📃 A README with problem statement and evaluation metrics
+- 📃 A problem statement and evaluation metrics
 - 📊 Model training and testing results
 - 🔍 Key takeaways and insights
 
