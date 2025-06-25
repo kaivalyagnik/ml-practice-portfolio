@@ -1,4 +1,4 @@
-# 🧠 ML Practice Portfolio
+# 🧠 Machine Learning Practice Portfolio
 
 Welcome to my **Machine Learning Practice Portfolio** — a curated collection of end-to-end projects across various regression and classification problems.
 
