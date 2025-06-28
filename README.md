@@ -88,7 +88,6 @@ This portfolio is designed to:
 ## 🚧 Work in Progress
 
 Upcoming additions:
-- Titanic Survival Prediction
 - Student Exam Score Predictor
 
 Stay tuned! 🚀
