@@ -43,7 +43,7 @@ Each dataset project includes:
 | California Housing     | Regression   | Predict house prices in California based on census data. | Linear Regression, Random Forest, XGBoost  | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb) |
 | Insurance Charges      | Regression   | Predict individual insurance charges using features like age, BMI, region, smoker status. | Linear, Decision Tree, Random Forest, XGBoost       | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/insurance_charges_regression.ipynb#scrollTo=CP9uPmFXHmwE) |
 | Heart Disease          | Classification   | Classify whether a patient has heart disease based on clinical and demographic features. | Logistic Regression, Random Forest      | [🔗 View](https://colab.research.google.com/drive/1wkLOF0s1YwpXrI5qdOk4UIT9AwUK44Gt?authuser=0#scrollTo=81cUOSK4yIZn) |
-| Diabetes               | Classification   | Predict whether a patient has diabetes based on clinical diagnostic measures. | Logistic Regression, Random Forest, SVM     | [🔗 View](https://github.com/kaivalyagnik/ml-practice-portfolio/blob/main/diabetes_classification.ipynb)
+| Diabetes               | Classification   | Predict whether a patient has diabetes based on clinical diagnostic measures. | Logistic Regression, Random Forest, SVM     | [🔗 View](https://github.com/kaivalyagnik/ml-practice-portfolio/blob/main/diabetes_prediction.ipynb)
  
 
 ---
