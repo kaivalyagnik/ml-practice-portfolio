@@ -28,6 +28,12 @@ Each dataset project includes:
 - **GridSearchCV with StratifiedKFold** ensured robust tuning and evaluation.
 - **Logistic Regression** remains a strong choice for interpretable and high-performing models on structured binary classification tasks.
 
+### ✅ Diabetes Classification
+- **Random Forest Classifier** achieved the best overall performance with high accuracy and ROC-AUC scores.
+- Cross-validation ensured robustness of the results.
+- ROC-AUC curves show strong class separation.
+- Future enhancements: consider SMOTE for class imbalance and fine-tune hyperparameters.
+
 ---
 
 ## 📂 Project List
@@ -37,6 +43,8 @@ Each dataset project includes:
 | California Housing     | Regression   | Predict house prices in California based on census data. | Linear Regression, Random Forest, XGBoost  | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/california_housing_regression.ipynb) |
 | Insurance Charges      | Regression   | Predict individual insurance charges using features like age, BMI, region, smoker status. | Linear, Decision Tree, Random Forest, XGBoost       | [🔗 View](https://colab.research.google.com/github/kaivalyagnik/ml-practice-portfolio/blob/main/insurance_charges_regression.ipynb#scrollTo=CP9uPmFXHmwE) |
 | Heart Disease          | Classification   | Classify whether a patient has heart disease based on clinical and demographic features. | Logistic Regression, Random Forest      | [🔗 View](https://colab.research.google.com/drive/1wkLOF0s1YwpXrI5qdOk4UIT9AwUK44Gt?authuser=0#scrollTo=81cUOSK4yIZn) |
+| Diabetes               | Classification   | Predict whether a patient has diabetes based on clinical diagnostic measures. | Logistic Regression, Random Forest, SVM     | [🔗 View](https://github.com/kaivalyagnik/ml-practice-portfolio/blob/main/diabetes_classification.ipynb)
+ 
 
 ---
 
@@ -74,6 +82,15 @@ Each dataset project includes:
 | Logistic Regression (Tuned)| **0.886**| **0.93**         | **0.90**           | **0.88** | Slight improvement with tuning |
 | Random Forest             | **0.870**| 0.89             | 0.88               | 0.87     | Default parameters          |
 | Random Forest (Tuned)     | 0.848    | **0.90**         | 0.87               | 0.84     | Tuning slightly reduced performance |
+
+### Model Evaluation Summary (Diabetes Classification)
+
+| Model                    | Accuracy | ROC-AUC Score | Notes                                       |
+| ------------------------ | -------- | ------------- | ------------------------------------------- |
+| Logistic Regression      | 0.85     | 0.87          | Strong baseline model                       |
+| Support Vector Machine   | 0.86     | 0.88          | Slight improvement over Logistic Regression |
+| Random Forest Classifier | **0.89** | **0.91**      | Best overall performance                    |
+
 
 
 ## 🧭 Purpose
