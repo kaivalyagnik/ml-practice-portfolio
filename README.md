@@ -103,8 +103,6 @@ This portfolio is designed to:
 ---
 
 
-Stay tuned! 🚀
-
 ---
 
 ## 📬 Feedback & Suggestions
