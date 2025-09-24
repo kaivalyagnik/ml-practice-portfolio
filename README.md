@@ -102,10 +102,6 @@ This portfolio is designed to:
 
 ---
 
-## 🚧 Work in Progress
-
-Upcoming additions:
-- Student Exam Score Predictor
 
 Stay tuned! 🚀
 
