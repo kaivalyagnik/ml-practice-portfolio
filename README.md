@@ -1,34 +1,34 @@
-# 🧠 Machine Learning Practice Portfolio
+#  Machine Learning Practice Portfolio
 
 Welcome to my **Machine Learning Practice Portfolio** — a curated collection of end-to-end projects across various regression and classification problems.
 
 Each dataset project includes:
-- 📃 A problem statement and evaluation metrics
-- 📊 Model training and testing results
-- 🔍 Key takeaways and insights
+-  A problem statement and evaluation metrics
+-  Model training and testing results
+-  Key takeaways and insights
 
 ---
 
-## 🔍 Key Takeaways
+##  Key Takeaways
 
-### ✅ California Housing
+###  California Housing
 - **Random Forest** and **XGBoost** outperform Linear Regression significantly.
 - Default Random Forest already gave a strong RMSE of ~48910.
 - Tuning didn’t improve performance much—suggesting default parameters were well-balanced.
 
-### ✅ Insurance Charges
+###  Insurance Charges
 - **Random Forest with One-Hot Encoding** gave the best overall performance.
 - **One-Hot Encoding** consistently outperformed **Ordinal** in both linear and tree models.
 - **XGBoost** was robust and less sensitive to encoding types.
 - **Linear Regression** benefitted marginally from One-Hot Encoding but lagged behind ensembles.
 
-### ✅ Heart Disease Classification
+###  Heart Disease Classification
 - **Logistic Regression (Fine-Tuned)** achieved the best accuracy (88.6%) and recall (93%) for detecting heart disease.
 - **Random Forest (Default)** also performed well (accuracy ~87%), but tuned version slightly underperformed, indicating over-tuning risk.
 - **GridSearchCV with StratifiedKFold** ensured robust tuning and evaluation.
 - **Logistic Regression** remains a strong choice for interpretable and high-performing models on structured binary classification tasks.
 
-### ✅ Diabetes Classification
+###  Diabetes Classification
 - **Random Forest Classifier** achieved the best overall performance with high accuracy and ROC-AUC scores.
 - Cross-validation ensured robustness of the results.
 - ROC-AUC curves show strong class separation.
@@ -36,7 +36,7 @@ Each dataset project includes:
 
 ---
 
-## 📂 Project List
+##  Project List
 
 | Dataset Name           | Type         | Problem Description                                | Models Used                                | Notebook Link                                                                 |
 |------------------------|--------------|----------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Each dataset project includes:
 
 ---
 
-## 📊 Model Evaluation Summary (California Housing)
+##  Model Evaluation Summary (California Housing)
 
 | Model                          | RMSE      | R² Score | Notes                                      |
 |-------------------------------|-----------|----------|--------------------------------------------|
@@ -58,7 +58,7 @@ Each dataset project includes:
 | XGBoost Regressor  (tuned)    | 48062 | 0.82 | Accurate and efficient gradient boosting   |
 
 
-📈 Insurance Charges
+ Insurance Charges
 
 | Model              | Encoding Type | RMSE      | R² Score | Notes                                       |
 |-------------------|---------------|-----------|----------|---------------------------------------------|
@@ -72,9 +72,9 @@ Each dataset project includes:
 | XGBoost            | One-Hot       | 4738.61   | 0.855    | Best XGBoost result                         |
 
 
-## 🧪 Model Comparison: Default vs Fine-Tuned (Heart Disease Classification)
+##  Model Comparison: Default vs Fine-Tuned (Heart Disease Classification)
 
-### 📊 Evaluation Summary
+###  Evaluation Summary
 
 | Model                     | Accuracy | Recall (Class 1) | F1-Score (Class 1) | Macro F1 | Notes                        |
 |---------------------------|----------|------------------|--------------------|----------|-----------------------------|
@@ -93,7 +93,7 @@ Each dataset project includes:
 
 
 
-## 🧭 Purpose
+##  Purpose
 
 This portfolio is designed to:
 - Strengthen my hands-on understanding of real-world ML problems
@@ -105,7 +105,7 @@ This portfolio is designed to:
 
 
 
-## 📬 Feedback & Suggestions
+##  Feedback & Suggestions
 
 Feel free to raise issues, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/in/kaival-yagnik-16185728b).
 
